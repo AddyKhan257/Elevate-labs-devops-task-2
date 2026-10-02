@@ -14,4 +14,4 @@ A declarative Jenkins pipeline (`Jenkinsfile`) that builds, tests and deploys a 
 - `jenkins/Dockerfile`: Jenkins image with the Docker CLI added
 - `app.js`, `test/`, `Dockerfile`: the Node.js app
 
-*Setup steps and screenshots coming soon .*
+*Setup steps and screenshots coming soon.*
